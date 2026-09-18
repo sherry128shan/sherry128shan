@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="./decision-garden-banner.png" alt="Decision garden: from a small signal to a product that grows" width="100%" />
-
-  <br />
-
   # Sherry Shan
 
   ### Product thinker building useful AI experiences
